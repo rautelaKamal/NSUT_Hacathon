@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/kavyapath/static/css/main.2288503e.chunk.css",
+    "main.js": "/kavyapath/static/js/main.b16d4932.chunk.js",
+    "main.js.map": "/kavyapath/static/js/main.b16d4932.chunk.js.map",
+    "runtime-main.js": "/kavyapath/static/js/runtime-main.614113ed.js",
+    "runtime-main.js.map": "/kavyapath/static/js/runtime-main.614113ed.js.map",
+    "static/js/2.58f150ab.chunk.js": "/kavyapath/static/js/2.58f150ab.chunk.js",
+    "static/js/2.58f150ab.chunk.js.map": "/kavyapath/static/js/2.58f150ab.chunk.js.map",
+    "static/js/3.478ac182.chunk.js": "/kavyapath/static/js/3.478ac182.chunk.js",
+    "static/js/3.478ac182.chunk.js.map": "/kavyapath/static/js/3.478ac182.chunk.js.map",
+    "index.html": "/kavyapath/index.html",
+    "precache-manifest.60271ae756a6489e89578ec4bbe8ee2f.js": "/kavyapath/precache-manifest.60271ae756a6489e89578ec4bbe8ee2f.js",
+    "service-worker.js": "/kavyapath/service-worker.js",
+    "static/css/main.2288503e.chunk.css.map": "/kavyapath/static/css/main.2288503e.chunk.css.map",
+    "static/js/2.58f150ab.chunk.js.LICENSE.txt": "/kavyapath/static/js/2.58f150ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.614113ed.js",
+    "static/js/2.58f150ab.chunk.js",
+    "static/css/main.2288503e.chunk.css",
+    "static/js/main.b16d4932.chunk.js"
+  ]
+}
